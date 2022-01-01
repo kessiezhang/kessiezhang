@@ -24,5 +24,5 @@ Outside of work, I also...
 - 🌱 I'm currently learning: MLOps, AWS, Javascript, etc..
 
 Find me around the web 🌎:
-- [Blog 📝](http://kessiezhang.medium.com/)
-- [LinkedIn 💼](https://www.linkedin.com/in/kessie-zhang/)
+- [💬Blog](http://kessiezhang.medium.com/)
+- [💼LinkedIn](https://www.linkedin.com/in/kessie-zhang/)
