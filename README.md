@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Data Scientist who is passionate about using programming and data science to better our lives through technology and knowledge sharing. Currently, I'm a Data Scientist at Cisco Umbrella helping PMs and executives build a product roadmap through providing customers insights. In my free time, I enjoy learning new things and share things I've learned through public speaking and technical blogging. 
+I'm a Data Scientist who is passionate about using programming and data science to better our lives through technology and knowledge sharing. Currently, I'm a Data Scientist at Cisco Umbrella helping PMs and executives build a product roadmap through providing customers insights. In my free time, I enjoy learning new things and share things I've learned through public speaking and blogging. 
 
 Outside of work, I also...
 
