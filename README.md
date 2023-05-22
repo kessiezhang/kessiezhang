@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Data Scientist who is passionate about using programming and data science to better our lives through technology and knowledge sharing. Currently, I'm a Data Scientist at Cisco Umbrella helping PMs and executives build a product roadmap through providing customers insights. In my free time, I enjoy learning new things and share things I've learned through public speaking and blogging. 
+I'm a Data Scientist who is passionate about using programming and data science to better our lives through technology and knowledge sharing. Currently, I'm a Data Scientist at Cisco Security Business Group helping PMs and executives build a product roadmap through providing customers insights. In my free time, I enjoy learning new things and share things I've learned through public speaking and blogging. 
 
 Outside of work, I also...
 
 - 📝 Write about data science, machine learning, and career growth.
 - 👯 Mentor aspiring data scientists.
-- 🌱 I'm currently learning: MLOps, AWS, Javascript, etc..
+- 🌱 I'm currently learning: MLOps, AWS
 
 Find me around the web 🌎:
 
