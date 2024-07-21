@@ -19,9 +19,8 @@ I'm a Data Scientist who is passionate about using programming and data science 
 
 Outside of work, I also...
 
-- 📝 Write about data science, machine learning, and career growth.
+- 📝 Write about personal development and career growth.
 - 👯 Mentor aspiring data scientists.
-- 🌱 I'm currently learning: MLOps, AWS
 
 Find me around the web 🌎:
 
