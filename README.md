@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a Data Scientist, working at the intersection of product analytics, machine learning, and AI engineering. I build measurement systems, causal inference and ML pipelines, and the agentic tooling that sits on top of them.
-With 5+ years of experience, I turn data into the growth strategy behind what ships, driving 10-15+ point lifts in adoption for a B2B security product.
+With 5+ years of experience, I turn data into the growth strategy behind what ships, driving 30+ point lifts in adoption for a B2B security product.
 
 🔭 Currently building agents, RAG pipelines, and agentic Skills that turn manual analytics work into durable team workflows. I care about solving the right problem for the right person.
 
